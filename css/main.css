@@ -1,12 +1,39 @@
 html {
   font-family: Georgia, serif;
   line-height: 1.5;
+  color: #2f2d13;
+  font-size: .75rem;
 }
 
 header {
   background-color: #ffe500;
+  padding: 0 .75em;
 }
 
 h1, h2 {
-  color: #cc1465
+  color: #b20953
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 1.125rem;
+}
+
+.nav li {
+  display: inline-block;
+}
+
+.nav a {
+  color: #fff;
+  display: inline-block;
+  padding: 0 .75em;
+  background-color: #b2a212;
+  text-decoration: none;
+}
+
+.nav .current {
+  background-color: #cc1465;
 }
