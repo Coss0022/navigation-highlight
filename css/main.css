@@ -37,9 +37,13 @@ h2 {
 }
 
 .nav .current {
-  background-color: #cc1465;
+  background-color: #b20953;
 }
 
 main {
   margin: .3em;
+}
+
+.nav a:hover {
+  background-color: #cc1465;
 }
