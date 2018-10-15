@@ -38,3 +38,7 @@ h2 {
 .nav .current {
   background-color: #cc1465;
 }
+
+main {
+  margin: .3em;
+}
