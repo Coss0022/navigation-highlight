@@ -51,3 +51,7 @@ main {
 .nav a:hover {
   background-color: #cc1465;
 }
+
+img {
+  width: 100%;
+}
